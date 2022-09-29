@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/*
+fontFamily : {
+        Fraunces : ['"Fraunces"',...defaultTheme.fontFamily.sans],
+        Montserrat : ['"Montserrat"',...defaultTheme.fontFamily.sans]
+      }
+
+      const defaultTheme = require('tailwindcss/defaultTheme'); */
